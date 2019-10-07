@@ -9,5 +9,5 @@ Using bedtools and blat to make a file to submit to Thermo's Agriseq team.
 ```
 marker1 chr1    1000    1001    C       A
 marker2 chr2    1000    1001    A       -
-marker3 chr3    1000    1002    -       A
+marker3 chr3    1000    1001    -       A
 ```
